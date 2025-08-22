@@ -1,5 +1,5 @@
 # What
-这是一个可以给大语言模型提供api提供反向代理服务（反正gemini是可以用的，其他的模型不确定。）
+这是一个可以给LLM api提供反向代理服务（反正gemini是可以用的，理论上AI Studio支持的其他的模型也是可以的。）
 # How
 1. `npm install`安装依赖
 2. `node dark-server.js`启动服务
