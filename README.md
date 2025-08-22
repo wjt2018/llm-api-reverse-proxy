@@ -7,6 +7,6 @@
 4. 把 `dark-brows.js` 中的内容完全复制到 Google AI Studio 中，然后 `Run the App` 按钮和 `Save this App`按钮
 5. 在要使用api key的地方输入`http://127.0.0.0:8889` 或者 `http://你自己的ip:8889`，然后就可以使用了。
 
-ps: 没有代理密码，空着就行。
+ps: 没有代理密码，空着就行。在使用的时候请保持Google AI Studio的活跃。
 
 致谢：https://discord.com/channels/1134557553011998840/1380129283430940712 
